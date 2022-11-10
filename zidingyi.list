@@ -4,3 +4,8 @@ DOMAIN-KEYWORD,meijutt,DIRECT
 DOMAIN-KEYWORD,wanmeikk,DIRECT
 DOMAIN-KEYWORD,opera,DIRECT
 DOMAIN-KEYWORD,welink.233.tw,DIRECT
+DOMAIN-SUFFIX,checkip.synology.com,DIRECT
+DOMAIN-SUFFIX,checkipv6.synology.com,DIRECT
+DOMAIN-SUFFIX,checkport.synology.com,DIRECT
+DOMAIN-SUFFIX,ddns.synology.com,DIRECT
+DOMAIN-SUFFIX,account.synology.com,DIRECT
