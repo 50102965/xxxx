@@ -11,5 +11,6 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 
-# ipify
+# ip
 DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,IP.SB
