@@ -11,12 +11,5 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 
-# ip
-DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,ip.sb
-
-# github
-DOMAIN-SUFFIX,github.com
-
 # bulianglin
 DOMAIN-SUFFIX,bulianglin.com
